@@ -14,3 +14,7 @@
 
 **开启flower**
 > celery flower --broker=redis://localhost:6379/0
+
+# 博客
+
+[django celery 结合使用](https://blog.csdn.net/qq_22918243/article/details/100009330)
