@@ -18,3 +18,7 @@
 # 博客
 
 [django celery 结合使用](https://blog.csdn.net/qq_22918243/article/details/100009330)
+
+# 欢迎交流
+
+<img src="https://gcore.jsdelivr.net/gh/tenqaz/BLOG-CDN@main/微信公众号.png" style="zoom:33%;" />
